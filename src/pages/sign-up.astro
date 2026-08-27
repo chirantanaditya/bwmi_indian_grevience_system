@@ -1,0 +1,15 @@
+---
+import "../styles/tailwind.css";
+import "../styles/global.css";
+import { SignupForm } from "../components/signup-form";
+---
+<!doctype html>
+<html lang="en">
+  <head><meta charset="utf-8" /><meta name="viewport" content="width=device-width" /><title>Create account — IGS</title></head>
+  <body class="min-h-screen bg-background text-foreground">
+    <main class="mx-auto flex min-h-screen w-full max-w-xl flex-col justify-center px-5 py-12">
+      <a class="mb-10 text-4xl font-black tracking-[-0.08em]" href="/">IGS</a>
+      <SignupForm client:load className="border-border shadow-xl" />
+    </main>
+  </body>
+</html>

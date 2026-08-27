@@ -1,0 +1,95 @@
+portal,serial_no,name,level,source_id,parent_source_id,has_children,is_leaf_authority,source_url,fetched_at_utc
+RTI Online,1,Cabinet Secretariat,0,8,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,3,Comptroller and Auditor General of India,0,110,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,137,Department of Administrative Reforms & PG,0,76,74,no,yes,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,138,Department of Agricultural Research & Education,0,13,9,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,255,"Department of Agriculture, Cooperation & Farmers Welfare",0,12,9,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,293,"Department of Animal Husbandry, Dairying and Fisheries",0,14,9,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,343,Department of Atomic Energy,0,23,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,384,Department of Bio-Technology,0,90,87,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,403,Department of Chemicals & Petrochemicals,0,17,16,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,411,Department of Commerce,0,24,22,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,444,Department of Consumer Affairs,0,32,30,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,457,Department of Defence,0,34,33,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,630,Department of Defence Production,0,35,33,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,650,Department of Economic Affairs,0,42,41,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,667,Department of Empowerment of Person with Disabilities (Divyangjan),0,3076,93,no,yes,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,668,Department of Expenditure,0,43,41,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,671,Department of Ex-Servicemen Welfare,0,323,33,no,yes,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,672,Department of Fertilisers,0,108,16,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,683,Department of Financial Services,0,1738,41,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,830,Department of Food & Public Distribution,0,31,30,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,879,Department of Health & Family Welfare,0,47,46,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,975,Department of Health Research,0,2551,46,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,1001,Department of Higher Education,0,61,59,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,1197,Department of Industrial Policy & Promotion,0,25,22,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,1214,Department of Investment and Public Asset Management,0,37,41,no,yes,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,1215,Department of Justice,0,68,65,no,yes,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,1216,Department of Land Resources,0,85,83,no,yes,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,1217,Department of Legal Affairs,0,66,65,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,1257,Department of Military Affairs,0,3775,33,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,1261,Department of Pensions & Pensioners Welfare,0,77,74,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,1263,Department of Personnel & Training,0,75,74,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,1284,Department of Pharmaceuticals,0,2044,16,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,1298,Department of Posts,0,28,26,no,yes,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,1299,Department of Public Enterprises,0,52,50,no,yes,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,1300,Department of Revenue,0,44,41,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,1410,Department of School Education and Literacy,0,60,59,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,1418,Department of Science & Technology,0,88,87,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,1450,Department of Scientific & Industrial Research,0,89,87,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,1496,Department of Space,0,94,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,1517,Department of Telecommunications,0,27,26,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,1569,Department of Youth Affairs,0,107,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,1579,Food Safety & Standards Authority of India(FSSAI),0,3179,46,no,yes,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,1580,Legislative Department,0,67,65,no,yes,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,1581,LOKPAL,0,3768,,no,yes,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,1582,Lok Sabha Secretariat,0,2835,,no,yes,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,1583,Ministry of AYUSH,0,48,46,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,1608,Ministry of Civil Aviation,0,18,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,1626,Ministry of Coal,0,19,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,1641,Ministry of Cooperation,0,3931,3930,no,yes,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,1642,Ministry of Corporate Affairs,0,69,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,1720,Ministry of Culture,0,101,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,1765,Ministry of Development of North Eastern Region,0,38,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,1770,Ministry of Drinking Water and Sanitation,0,86,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,1772,Ministry of Earth Sciences,0,71,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,1783,Ministry of Education,0,59,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2002,Ministry of Electronics & Information Technology,0,29,26,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2016,"Ministry of Environment, Forest and Climate Change",0,39,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2062,Ministry of External Affairs,0,40,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2273,Ministry of Food Processing Industries,0,15,,no,yes,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2274,Ministry of Heavy Industries,0,51,50,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2301,Ministry of Home Affairs,0,53,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2328,Ministry of Housing & Urban Affairs,0,103,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2368,Ministry of Information & Broadcasting,0,63,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2389,Ministry of Labour & Employment,0,64,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2442,"Ministry of Micro, Small and Medium Enterprises",0,2125,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2508,Ministry of Mines,0,21,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2517,Ministry of Minority Affairs,0,20,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2526,Ministry of New & Renewable Energy,0,70,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2532,Ministry of Panchayati Raj,0,49,,no,yes,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2533,Ministry of Parliamentary Affairs,0,73,,no,yes,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2534,Ministry of Petroleum & Natural Gas,0,78,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2562,"Ministry of Ports, Shipping and Waterways",0,97,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2592,Ministry of Power,0,80,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2613,Ministry of Railways,0,81,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2796,Ministry of Road Transport & Highways,0,104,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2804,Ministry of Rural Development,0,83,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2807,Ministry of Skill Development & Entrepreneurship,0,3015,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2813,Ministry of Social Justice & Empowerment,0,93,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2838,Ministry of Statistics & Programme Implementation,0,95,,no,yes,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2839,Ministry of Steel,0,96,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2853,Ministry of Textiles,0,98,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2872,Ministry of Tourism,0,100,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2897,Ministry of Tribal Affairs,0,102,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2901,"Ministry of Water Resources, River Development & Ganga Rejuvenation",0,106,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2925,Ministry of Women & Child Development,0,62,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2931,National Institution for Transforming India (NITI Aayog),0,79,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2933,Northeast Frontier(N.F) Railway,0,3173,81,no,yes,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2934,President Secretariat,0,109,,no,yes,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2935,Prime Minister's Office,0,72,,no,yes,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2936,Rajya Sabha Secretariat,0,2862,,no,yes,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2937,UT of Andaman & Nicobar,0,111,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,2992,UT of Chandigarh,0,112,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,3067,UT Of Puducherry,0,3801,,yes,no,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00
+RTI Online,3114,Vice-President Secretariat,0,565,,no,yes,https://rtionline.gov.in/request/allpa.php,2026-08-23T06:45:58.414113+00:00

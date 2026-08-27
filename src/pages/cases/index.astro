@@ -1,0 +1,40 @@
+---
+import "../../styles/tailwind.css";
+import "../../styles/global.css";
+---
+<!doctype html>
+<html lang="en">
+  <head><meta charset="utf-8" /><meta name="viewport" content="width=device-width" /><title>Your cases — IGS</title></head>
+  <body>
+    <main class="cases-page">
+      <a href="/">← Back to IGS</a>
+      <h1>Your cases</h1>
+      <p id="casesMessage" aria-live="polite">Loading your cases…</p>
+      <section id="casesList" class="cases-list" hidden></section>
+    </main>
+    <script is:inline>
+      const message = document.getElementById("casesMessage");
+      const list = document.getElementById("casesList");
+      fetch("/api/cases", { credentials: "include" })
+        .then(async (response) => {
+          const data = await response.json();
+          if (response.status === 401) { window.location.assign("/sign-in"); return; }
+          if (!response.ok) throw new Error(data.error || "We could not load your cases.");
+          message.textContent = data.cases.length ? "" : "You have no cases yet.";
+          list.hidden = !data.cases.length;
+          data.cases.forEach((item) => {
+            const link = document.createElement("a");
+            const title = document.createElement("strong");
+            const detail = document.createElement("span");
+            link.href = `/cases/${item.id}`;
+            title.textContent = item.department || "Public-service case";
+            detail.textContent = `${item.status.replaceAll("_", " ")} · ${item.filing_type || "Grievance"}`;
+            link.append(title, detail);
+            list.append(link);
+          });
+        })
+        .catch((error) => { message.textContent = error instanceof Error ? error.message : "We could not load your cases."; });
+    </script>
+    <style is:global>.cases-page{width:min(760px,100%);margin:0 auto;padding:48px 22px}.cases-page>a{color:var(--ink)}.cases-page h1{margin:28px 0 12px}.cases-list{display:grid;gap:12px;margin-top:24px}.cases-list a{display:grid;gap:5px;padding:20px;border:1px solid var(--line);border-radius:14px;background:var(--active);color:var(--ink);text-decoration:none}.cases-list a:hover{border-color:var(--ink)}.cases-list span{color:var(--muted);font-size:14px;text-transform:capitalize}</style>
+  </body>
+</html>
